@@ -1,0 +1,31 @@
+body{
+    background-color: lightblue;
+    padding: 100px;
+}
+.texto_1{
+    display: flex;
+}
+.perro{
+    border-radius: 10px;
+    width: 200px;
+}
+.gato{
+    border-radius: 10px;
+    width: 200px;
+}
+.fotografia{
+    display: flex;
+}
+.columna_izq{
+    width: 50%;
+}
+.columna_der{
+    width: 50%;
+}
+
+
+
+
+
+  
+

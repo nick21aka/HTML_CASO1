@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    padding: 100px;
+}
+.perro_3{
+    border-radius: 10px;
+    width: 200px;
+}
+.perro_2{
+    border-radius: 10px;
+    width: 200px;
+}
+.perro_1{
+    border-radius: 10px;
+    width: 200px;
+}
+.fotografia{
+    display: flex;
+}
+.columna_izq{
+    width: 50%;
+}
+.columna_der{
+    width: 50%;
+}
